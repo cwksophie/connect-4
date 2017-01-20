@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Connect 4 Python Project
 
-You can use the [editor on GitHub](https://github.com/cwksophie/connect-4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my Python connect 4 project.  You can download the code to try it out yourself!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to play
+The game has a built in AI so you can play by yourself.  Just enter the slot number where you want to put your tile and the tile will drop down to the appropriate position.  To win the game, you need to get 4 in a row.
 
 ### Markdown
 
@@ -25,13 +26,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cwksophie/connect-4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
